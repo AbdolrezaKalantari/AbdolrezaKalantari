@@ -2,7 +2,7 @@
 
 🎯 Backend Developer specialized in ASP.NET Core  
 💡 Passionate about clean architecture, scalable APIs, and real-world problem solving  
-🌍 Based in Sijonoyants | 🇦🇿 Azerbaijani speaker
+🌍 Based in IRAN-Tabriz💕
 
 ---
 
