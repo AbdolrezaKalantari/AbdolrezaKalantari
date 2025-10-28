@@ -8,7 +8,7 @@
 
 ## 🚀 My Featured Projects
 
-🔹 [QuizService](https://github.com/AbdolrezaKalantari/QuizService)  
+🔹 [QuizService](https://github.com/AbdolrezaKalantari/QuizBaseService)  
 A full-featured quiz management API with JWT authentication, role-based access, and automatic scoring.
 
 🔹 [EmailSenderService](https://github.com/AbdolrezaKalantari/EmailSenderService)  
